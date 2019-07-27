@@ -1,0 +1,13 @@
+{
+  "name": "node-my-renault-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rikardwissing/node-my-renault-api.git",
+  "author": "rikardwissing <hi@rikard.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.0.0",
+    "moment": "^2.24.0"
+  }
+}
